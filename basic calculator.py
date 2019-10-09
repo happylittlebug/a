@@ -15,4 +15,4 @@ num5 = input("Enter a number: ")
 num6 = input("Enter another number: ")
 
 result3 = pow(float(num5), float(num6))
-print("result3: " + str(result3))
+print("result3: result3))
